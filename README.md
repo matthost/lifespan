@@ -61,6 +61,10 @@ Others:
   - Antioxidant in mushrooms.
   - Extends lifespan in flies. ([study](https://pubmed.ncbi.nlm.nih.gov/34877949/))
 
+Interesting:
+  - Baikal Skullcap
+    - Seems to reduce glucose digestion via same mechanism as acarbose.
+
 
 ## More info
 
