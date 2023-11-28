@@ -13,11 +13,11 @@ Exercise most days. Generally biking, skiing, or kettlebell / pushups / pullups.
 Main:
 - Rapamycin
   - ITP mice lifespan extension (male): +22% median
-    - When combined with Rapamycin: +37% median / +10% max
+    - When combined with acarbose: +37% median / +10% max
   - Inhibits a growth pathway called MTORc1.
 - Acarbose
   - ITP mice lifespan extension (male): +16% median
-    - When combined with Rapamycin: +37% median / +10% max
+    - When combined with rapamycin: +37% median / +10% max
   - Delays digestion of glucose.
 - Glycine
    - ITP Mice lifespan extension (male): +6% median / +5% 90%
@@ -27,7 +27,7 @@ Main:
    - Single lab mice lifespan extension (make and female): ~24% average ([study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8912885/))
    - Thought to be useful due to being a precursor of glutathione, along with Glycine.
 - Taurine
-  - Single lab mice lifespan extension: 10%
+  - Mice lifespan extension: median 10%. ([study](https://www.science.org/doi/10.1126/science.abn9257))
   - Amino acid in food, generally safe. Lacking in plant based diets - possibly synergistic to fix deficiency, or detrimental because the deficiency is a good thing?
 - B12
   - Necessary on a plant based diet.
