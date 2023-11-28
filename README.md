@@ -53,6 +53,13 @@ Others:
   - Collagen improves skin health, and is generally safe. Recommended by safety-conservative Stanfield.
 - Hyaluronic acid
   - Improves skin health. Recommended by safety-conservative Stanfield.
+- Omega 3
+  - TODO
+- Vitamin D
+  - TODO
+- Ergothioneine
+  - Antioxidant in mushrooms.
+  - Extends lifespan in flies. ([study](https://pubmed.ncbi.nlm.nih.gov/34877949/))
 
 
 ## More info
