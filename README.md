@@ -29,11 +29,14 @@ Main:
 - Taurine
   - Single lab mice lifespan extension: 10%
   - Amino acid in food, generally safe. Lacking in plant based diets - possibly synergistic to fix deficiency, or detrimental because the deficiency is a good thing?
+- B12
+  - Necessary on a plant based diet.
 
 Others:
 - Sulforaphane
   - An ingredient of broccoli.
   - Worm lifepsan extension: ~15%. ([study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7880325/))
+  - Maybe beneficial for cancer?
 - Glylo
   - Single study mice lifespan extension: +8% median / +5% max ([link](https://www.biorxiv.org/content/10.1101/2022.08.10.503411v1.full))
   - Reduces sugar induced glycation
