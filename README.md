@@ -62,7 +62,7 @@ I take and think everyone should take these:
     - [Mice lifespan extension](https://www.science.org/doi/10.1126/science.abn9257): median 10%. Equivalent human dose of 2.8-5.7g.
     - Same study as above: taurine deficiency associated with aging
   - Risk
-    - Low, given fairly similar amounts are present in a typical diet. Since plant based diets are superior for lifespan it is possible the taurine deficiency is actually a good thing, and supplementing it is an error, but that seems unlikely.
+    - Low, given fairly similar amounts are present in a typical diet.
   - Dose
     - 2-4g daily
 - B12
@@ -72,7 +72,7 @@ I take and think everyone should take these:
     - 1 mg, weekly
 - Creatine
   - Background
-    - Improves strength and possibly cognition in humans, widely used. Found in meat, low levels in vegan diet.
+    - Improves strength and possibly cognition in humans, widely used. Being strong is important in human lifespan due to the risk of frailty.
   - Evidence
     - TODO
   - Risks
