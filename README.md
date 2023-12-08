@@ -82,7 +82,7 @@ Main:
   - Background
     - Semi-essential amino acid, produced endogenously and also found in food. Non-vegetarians typically eat 40 – 70 mg of taurine per day (Rana, 1986). Vegan diet has reduced amounts of taurine, with seaweed and soybeans as plant based sources. Vegans have been shown to have lower but normal blood levels of taurine (Laidlaw, 1988).
   - Evidence
-    - [Mice lifespan extension](https://www.science.org/doi/10.1126/science.abn9257): median 10%
+    - [Mice lifespan extension](https://www.science.org/doi/10.1126/science.abn9257): median 10%. Equivalent human dose of 2.8-5.7g.
     - Same study as above: taurine deficiency associated with aging
   - Risk
     - Low, given fairly similar amounts are present in a typical diet. Since plant based diets are superior for lifespan it is possible the taurine deficiency is actually a good thing, and supplementing it is an error, but that seems unlikely.
@@ -93,6 +93,15 @@ Main:
     - A vitamin whose deficiency causes significant issues and is missing in vegan / plant based diets.
   - Dose
     - 1 mg, weekly
+- Creatine
+  - Background
+    - Improves strength and possibly cognition in humans, widely used. Found in meat, low levels in vegan diet.
+  - Evidence
+    - TODO
+  - Risks
+    - Low, widely used without negative effects.
+  - Dose
+    2.5g or 5g daily
 
 Others:
 - Astaxanthin
@@ -126,19 +135,10 @@ Others:
     - Seems low.
   - Dose
     - 1 tablet.
-- Creatine
-  - Background
-    - Improves strength and possibly cognition in humans, widely used. Found in meat, low levels in vegan diet.
-  - Evidence
-    - TODO
-  - Risks
-    - Low
-  - Dose
-    2.5g or 5g daily
 - Lutein and Zeaxanthin
   - [Seems](https://www.medicalnewstoday.com/articles/how-much-lutein-per-day-for-macular-degeneration#lutein-and-macular-degeneration) to aid against age related macular degeneration, which 23andme says I am at higher risk of.
 - Vollagen (vegan collagen)
-  - Collagen improves skin health, and is generally safe.
+  - Collagen improves skin health and is just protein so is generally safe.
 - Hyaluronic acid
   - Improves skin health.
 - Omega 3
