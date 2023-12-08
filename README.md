@@ -8,6 +8,13 @@ I aspire towards a completely whole food plant based (WFPB) diet. For examples, 
 
 TODO: Add research around why this is best.
 
+- Lower saturated fat and cholesterol
+  - Lowers cardiovascular disease, top cause of death for humans.
+- Methionine restriction
+  - Plant based diets are lower in methionine.
+- Protein restriction
+  - TODO
+
 ### Exercise
 
 Exercise most days. Biking, skiing, or kettlebell / pushups / pullups.
