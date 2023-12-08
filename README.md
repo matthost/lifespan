@@ -9,10 +9,14 @@ I aspire towards a completely whole food plant based (WFPB) diet. For examples, 
 TODO: Add research around why this is best.
 
 - Lower saturated fat and cholesterol
-  - Lowers cardiovascular disease, top cause of death for humans.
+  - Lowers cardiovascular disease, top cause of death for humans. Some studies of WFPB diet slowing and even reversing CVD.
 - Methionine restriction
-  - Plant based diets are lower in methionine.
-- Protein restriction
+  - Plant based diets are lower in methionine. Methionine restriction seems to mimic the benefits of caloric restriction. It increases lifespan in [female flies](https://www.nature.com/articles/s41467-023-43550-2).
+- Isoleucine restriction
+  - A WFPB diet is lower in isoleucine, which [extends mice lifespan](https://www.cell.com/cell-metabolism/fulltext/S1550-4131(23)00374-1).
+- (Animal) protein restriction
+  - Animal protein restriction seems to mimic the benfits of caloric restriction, likely in part due to methionine and isoleucine restriction and reduced MTOR and IGF-1.
+- Fiber
   - TODO
 
 ### Exercise
