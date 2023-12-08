@@ -72,7 +72,7 @@ I take and think everyone should take these:
     - 1 mg, weekly
 - Creatine
   - Background
-    - Improves strength and possibly cognition in humans, widely used. Being strong is important in human lifespan due to the risk of frailty.
+    - Improves strength and possibly cognition in humans, widely used. Being strong is important in human lifespan due to loss of muscle with age and the risk of frailty.
   - Evidence
     - TODO
   - Risks
