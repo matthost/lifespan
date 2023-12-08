@@ -2,7 +2,7 @@
 
 ### Diet
 
-I aspire towards a completely whole food plant based (WFPB) diet. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.org/daily-dozen/) would both be great targets. I actually eat a vegan, mostly WFPB diet.
+I aspire towards a completely whole food plant based (WFPB) diet. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.app.box.com/s/u4fsn7upyurc85tckg5p163xrvif297p/file/1051382381632) would both be great targets. I actually eat a vegan, mostly WFPB diet.
 
 TODO: Add research around why this is best.
 
