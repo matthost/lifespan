@@ -1,56 +1,16 @@
-# Longevity stack:
+# Longevity stack
 
-This describes my longevity stack, and my recommendations for others who would like to live healthy for longer.
-
-I am hopeful that this stack plus future changes to it will enable a healthy life to at least 120 years old and perhaps beyond. I am a believer that in the long run technology will allow aging related deterioration to be mostly or completely eliminated. While I am skeptical that we are lucky enough to be part of the population that achieves "longevity escape velocity" due to the slow nature of experiments in longevity, it cannot be discounted entirely. Today's world would be unbelievable 40 years ago, and technology development is accelerating.
-
-### Lifespan vs Healthspan
-
-Sometimes people ask "why would you want to live longer when being old sucks?" The answer is that the goal is to increase the number of healthy years, "healthspan", in addition to total lifespan.
-
-Improving lifespan will improve healthspan. Lifespan is easier to measure, harder to improve, and its extension will be the most revolutionary, so it is the best metric to target and discuss.
-
-## Research
-
-Research in longevity is difficult. Performing lifespan RCTs on humans is basically impossible since it would take 80+ years. Instead we rely on other types of evidence.
-
-### Lifespan Trials in model organisms
-
-Model organisms are not humans, but we all evolved from the same source organisms and share a lot of our biology. If the effect is shown across organisms or in organisms closest to humans, and the mechanism is explained and proposed to be similar in humans, you can have some confidence it will translate. In order from least to most applicable:
-  - C. Elegans. A worm. They are useful because the lifespan is only 20 days and experiments are cheap.
-  - Drosophilia. Fruit flies. They are useful because the lifespan is only 70 days and experiments are cheap.
-  - Mice. The most common experimental animal. They are useful because they are closer to humans, but trials take longer and are more expensive. Healthy mice live around (900 days)[https://www.biorxiv.org/content/10.1101/2023.10.08.561459v1.full]. This "sweet spot" of closeness to humans, short trial length, and being well researched and available make mice the primary model organism when considering the effectiveness of a treatment on humans.
-  - Dogs. Dogs are closer to humans than mice and live even longer, 10-20 years. There are fewer trials on dogs, but some have started.
-
-The gold standard of lifespan experiments is the [Interventions Testing Program](https://www.nia.nih.gov/research/dab/interventions-testing-program-itp), which performs lifespan experiments at 3 independent labs for each tested compound to reduce the effect of errors or outliers in one lab.
-
-### Trials in humans
-
-Since we are humans, the best evidence would come from humans. There are three types of evidence in humans:
-
-- Randomized Control Trials. People are randomly placed into treatment and control groups, the treatment group gets the treatment, and both groups are examined afterwards. The gold standard of evidence, but generally short (weeks or months) so cannot show long term and especially lifespan effects. Instead we can examine biomarkers (e.g. blood sugar, LDL cholesterol) and try to explain why changes to these may influence aging or specific age related diseases. However, this doesn't tell the whole story. For example, the best current longevity drug Rapamycin actually moves blood sugar in the "wrong" direction. If it had only been examined in that lense, we would not know it has the potential to extend lifespan 10-20%.
-
-- Epedimiological studies. Look at samples of whole populations of people and try to draw conclusions, without modifying them. These should be interpreted cautiously because there are so many confounding factors. However, if there is a large effect size, and it is consistent across populations and studies, it can suggest real effects.
-
-- Anecdotes. Personal experiences. A weak form of evidence since so many confounding factors likely affect it, but can point in the right direction in absense of any other evidence.
-
-### Future: Simulation
-
-I believe that the next revolution in longevity will come from accurate simulation of human biology that can be enabled by orders of magnitude more compute than we have today. This will allow rapid experimentation and examination in simulated human biology, removing the need for inconclusive and barbaric animal experimentation.
-
-## The stack
+This describes my longevity stack, and my recommendations for others who would like to live healthier for longer.
 
 ### Diet
 
-Diet can be the hardest to modify since it takes the most time, is the most work and is tightly coupled with your relationships, social groups, and activities.
-
-I aspire to eat a completely whole food plant based (WFPB) diet. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.org/daily-dozen/) would both be great targets. I actually eat a vegan, mostly WFPB diet.
+I aspire towards a completely whole food plant based (WFPB) diet. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.org/daily-dozen/) would both be great targets. I actually eat a vegan, mostly WFPB diet.
 
 TODO: Add research around why this is best.
 
 ### Exercise
 
-Exercise most days. Generally biking, skiing, or kettlebell / pushups / pullups.
+Exercise most days. Biking, skiing, or kettlebell / pushups / pullups.
 
 TODO: Add research around why exercise is good.
 
@@ -58,46 +18,118 @@ TODO: Add research around why exercise is good.
 
 Main:
 - Rapamycin
-  - ITP mice lifespan extension (male): +22% median
-    - When combined with acarbose: +37% median / +10% max
-  - Inhibits a growth pathway called MTORc1.
+  - Background
+    - Inhibits MTOR, and specifically MTORc1, a growth pathway.
+  - Evidence
+    - [ITP mice lifespan extension](https://phenome.jax.org/itp/surv/Rapa/C2009)
+      - male: +10-22% median, +8% p90
+      - female: +22% median, +21% p90
+    - [ITP mice lifespan extension when combined with acarbose](https://phenome.jax.org/itp/surv/RaAc/C2017):
+      - male: +37% median / +24% p90
+      - female: +28% median / +21% p90
+  - Risks
+    - Used in humans for suppressing the immune system after transplants at 2-5 mg daily dose, establishing safety.
+    - Most significant potential side effects are related to having kids.
+      - For males: decrease in fertility. Seen in human transplant patients and high dose mice. In both humans and mice discontinuation of the drug allows fertility in all cases.
+      - For females: when taken during mice pregnancy, bad effects in offspring.
+    - May raise blood sugar, which may be why it is synergistic with acarbose.
+  - Dose
+    - 4 mg once weekly. More is probably better.
 - Acarbose
-  - ITP mice lifespan extension (male): +16% median
-    - When combined with rapamycin: +37% median / +10% max
-  - Delays digestion of glucose.
+  - Background
+    - Slows digestion of glucose, lowering blood sugar spikes. Taken with meals.
+  - Evidence
+    - [ITP mice lifespan extension](https://phenome.jax.org/itp/surv/ACA/C2013)
+      - male: +17% median / + 11% p90
+      - female: +5% median / +3% p90
+    - ITP mice lifespan extension when combined with rapamycin: see rapamycin section
+  - Risks
+    - Low risk, widely prescribed in humans.
+  - Dose
+    - 50 mg twice daily, with lunch and dinner
 - Glycine
-   - ITP Mice lifespan extension (male): +6% median / +5% 90%
-   - Thought to be useful due to being a precursor of glutathione, along with NAC.
-   - Amino acid in food, generally safe.
-- NAC
-   - Single lab mice lifespan extension (make and female): ~24% average ([study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8912885/))
-   - Thought to be useful due to being a precursor of glutathione, along with Glycine.
+  - Background
+    - Amino acid in food, a typical diet contains ~2 grams daily. Supplementation thought to be useful due to being a precursor of glutathione, along with NAC.
+  - Evidence
+    - [ITP Mice lifespan extension](https://phenome.jax.org/itp/surv/Gly/C2014)
+      - male: +6% median / +5% p90
+      - female: +4% median / +2% p90
+  - Risk
+    - Low risk, found in diet in similar amount as supplementation.
+  - Dose
+    - 4g daily
+- NAC (combined with glycine)
+  - Background
+    - This and glycine are precursors of the endogenous antioxidant glutathione.
+  - Evidence
+    - Single lab mice lifespan extension (male and female): ~24% average ([study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8912885/))
+  - Risks
+    - Some evidence that increasing antioxidant supplementation such as NAC can increase cancer risk. This is at odds with the lifespan extension seen in mice, which mostly die of cancer.
+  - Dose
+    - 1g daily
 - Taurine
-  - Mice lifespan extension: median 10%. ([study](https://www.science.org/doi/10.1126/science.abn9257))
-  - Amino acid in food, generally safe. Lacking in plant based diets - possibly synergistic to fix deficiency, or detrimental because the deficiency is a good thing?
+  - Background
+    - Semi-essential amino acid, produced endogenously and also found in food. Non-vegetarians typically eat 40 – 70 mg of taurine per day (Rana, 1986). Vegan diet has reduced amounts of taurine, with seaweed and soybeans as plant based sources. Vegans have been shown to have lower but normal blood levels of taurine (Laidlaw, 1988).
+  - Evidence
+    - [Mice lifespan extension](https://www.science.org/doi/10.1126/science.abn9257): median 10%
+    - Same study as above: taurine deficiency associated with aging
+  - Risk
+    - Low, given fairly similar amounts are present in a typical diet. Since plant based diets are superior for lifespan it is possible the taurine deficiency is actually a good thing, and supplementing it is an error, but that seems unlikely.
+  - Dose
+    - 2g daily
 - B12
-  - Necessary on a plant based diet.
-- Astaxanthin
-  - ITP mice lifespan extension (male): p50 +12%, p90 +6%
-  - Worm lifespan extension: +20%
-  - Pigment in salmon, missing in plant based diet (though that could be a good thing). Antioxidant. Nrf2 activator.
+  - Background
+    - A vitamin whose deficiency causes significant issues and is missing in vegan / plant based diets.
+  - Dose
+    - 1 mg, weekly
 
 Others:
+- Astaxanthin
+  - Background
+    - Antioxidant, Nrf2 activator, pink pigment in salmon. 165g salmon has 3.6mg astaxanthin. 
+  - Evidence
+    -[ITP mice lifespan extension](https://link.springer.com/article/10.1007/s11357-023-01011-0)
+      - 4000 ppm (3.5g / day human equivalent dose)
+      - male: +12% median, +6% p90
+      - female: no effect
+  - Risks
+    - Seems low, given natural consumption and mice testing with much larger amounts.
+  - Dose
+    - ITP tested a human equivalent 3.5g / day, but most supplements have only 12mg.
 - Sulforaphane
-  - An ingredient of broccoli.
-  - Worm lifepsan extension: ~15%. ([study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7880325/))
-  - Maybe beneficial for cancer?
+  - Background
+    - An ingredient of broccoli.
+  - Evidence
+    - Seems to have anticancer, other beneficial effects. [Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5225737/).
+    - [Worm lifepsan extension]((https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7880325/)): ~15%
+  - Risks
+    - Seems low.
+  - Dose
+    - ?
 - Glylo
-  - Single study mice lifespan extension: +8% median / +5% max ([link](https://www.biorxiv.org/content/10.1101/2022.08.10.503411v1.full))
-  - Reduces sugar induced glycation
+  - Background
+    - [Commercial supplement](https://juvifyhealth.com/pages/glylo) designed to reduce damage done by [glycation](https://en.wikipedia.org/wiki/Glycation), so thought to reduce damage from high blood sugar.
+  - Evidence 
+    - [Single study mice lifespan extension]((https://www.biorxiv.org/content/10.1101/2022.08.10.503411v1.full)): +8% median / +5% max.
+  - Risks
+    - Seems low.
+  - Dose
+    - 1 tablet.
 - Creatine
-  - Improves strength in humans and seems safe. TODO: study on strength, why strength is good for longevity.
+  - Background
+    - Improves strength and possibly cognition in humans, widely used. Found in meat, low levels in vegan diet.
+  - Evidence
+    - TODO
+  - Risks
+    - Low
+  - Dose
+    2.5g or 5g daily
 - Lutein and Zeaxanthin
   - [Seems](https://www.medicalnewstoday.com/articles/how-much-lutein-per-day-for-macular-degeneration#lutein-and-macular-degeneration) to aid against age related macular degeneration, which 23andme says I am at higher risk of.
 - Vollagen (vegan collagen)
-  - Collagen improves skin health, and is generally safe. Recommended by safety-conservative Stanfield.
+  - Collagen improves skin health, and is generally safe.
 - Hyaluronic acid
-  - Improves skin health. Recommended by safety-conservative Stanfield.
+  - Improves skin health.
 - Omega 3
   - TODO
 - Vitamin D
@@ -105,7 +137,5 @@ Others:
 - Ergothioneine
   - Antioxidant in mushrooms.
   - Extends lifespan in flies. ([study](https://pubmed.ncbi.nlm.nih.gov/34877949/))
-
-Interesting:
-  - Baikal Skullcap
-    - Seems to reduce glucose digestion via same mechanism as acarbose.
+- Baikal Skullcap
+  - Seems to reduce glucose digestion via same mechanism as acarbose.
