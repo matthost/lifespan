@@ -146,3 +146,5 @@ Others:
   - Extends lifespan in flies. ([study](https://pubmed.ncbi.nlm.nih.gov/34877949/))
 - Baikal Skullcap
   - Seems to reduce glucose digestion via same mechanism as acarbose.
+
+A note on supplements: non-pharmaceutical supplements are unregulated and the quality is terrible. Buy from a trusted supplier with 3rd party lab tests like Nootropics Depot or Thorne.
