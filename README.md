@@ -101,7 +101,7 @@ Main:
   - Risks
     - Low, widely used without negative effects.
   - Dose
-    2.5g or 5g daily
+    2.5-5g daily
 
 Others:
 - Astaxanthin
