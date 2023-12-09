@@ -46,19 +46,20 @@ I take and think everyone should take these:
     - 50 mg twice daily, with lunch and dinner
 - Glycine
   - Background
-    - Amino acid in food, a typical diet contains ~2 grams daily.
+    - Amino acid in food, a typical diet contains ~2 grams daily. Tastes sweet.
   - Evidence
     - [ITP Mice lifespan extension](https://phenome.jax.org/itp/surv/Gly/C2014)
       - male: +6% median / +5% p90
       - female: +4% median / +2% p90
     - When combined with NAC: 24% average mice lifespan extension. See NAC section.
+    - [Glycine (7g) and NAC (9g) supplementation in older humans for 24 weeks improved some markers of health and increased glutathione](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ctm2.372)
   - Risk
     - Low risk, found in diet in similar amount as supplementation.
   - Dose
     - 4+ grams daily
 - Taurine
   - Background
-    - Semi-essential amino acid, produced endogenously and also found in food. Non-vegetarians typically eat 40 – 70 mg of taurine per day (Rana, 1986). Vegan diet has reduced amounts of taurine, with seaweed and soybeans as plant based sources. Vegans have been shown to have lower but normal blood levels of taurine (Laidlaw, 1988).
+    - Semi-essential amino acid, produced endogenously and also found in food. Non-vegetarians typically eat 40 – 70 mg of taurine per day (Rana, 1986). Vegan diet has reduced amounts of taurine, with seaweed and soybeans as plant based sources. Vegans have been shown to have lower but normal blood levels of taurine (Laidlaw, 1988). Neutral taste.
   - Evidence
     - [Mice lifespan extension](https://www.science.org/doi/10.1126/science.abn9257): median 10%. Equivalent human dose of 2.8-5.7g.
     - Same study as above: taurine deficiency associated with aging
@@ -84,7 +85,7 @@ I take and think everyone should take these:
 Others I have taken or considered, but am not as sure about:
 - NAC (combined with glycine)
   - Background
-    - This and glycine are precursors of the endogenous antioxidant glutathione. Antioxidant.
+    - This and glycine are precursors of the endogenous antioxidant glutathione. Antioxidant. Tastes terrible.
   - Evidence
     - [Single lab mice lifespan extension (male and female): ~24% average](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8912885/)
   - Risks
