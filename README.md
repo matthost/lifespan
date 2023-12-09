@@ -26,7 +26,8 @@ I take and think everyone should take these:
     - Most significant potential side effects are related to having kids.
       - For males: decrease in fertility. Seen in human transplant patients and high dose mice. In both humans and mice discontinuation of the drug allows fertility in all cases.
       - For females: [when taken during mice pregnancy, reduced size and growth of offspring](https://pubmed.ncbi.nlm.nih.gov/28778941)
-    - Can also lower immune system response to bacteria. This can be an issue at high doses used in transplant patients but not reported in lower weekly antiaging usage. Recommend stopping usage while feeling sick.
+    - Can increase insulin resistance, raising blood glucose. This is likely why it synergizes with acarbose, which lowers blood glucose.
+    - Can lower immune system response to bacteria. This can be an issue at high doses used in transplant patients but not reported in lower weekly antiaging usage. Recommend stopping usage while feeling sick.
   - Dose
     - 4 mg once weekly. More is probably better.
 - Acarbose
