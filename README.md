@@ -22,11 +22,11 @@ I take and think everyone should take these:
       - female: +28% median / +21% p90
     - [Evidence of anticancer effect in humans and FDA approval to treat cancer in humans.](https://www.nature.com/articles/nrc2341)
   - Risks
-    - Low risk.
-    - Used and researched in human transplant patients at 2-5 mg daily dose.
+    - Low risk. Used and researched in human transplant patients at 2-5 mg daily dose. Used widely at 4+ mg weekly dose for anti-aging.
     - Most significant potential side effects are related to having kids.
       - For males: decrease in fertility. Seen in human transplant patients and high dose mice. In both humans and mice discontinuation of the drug allows fertility in all cases.
       - For females: when taken during mice pregnancy, bad effects in offspring.
+    - Can also lower immune system response to bacteria. This can be an issue at high doses used in transplant patients but not reported in lower weekly antiaging usage. Recommend stopping usage while feeling sick.
   - Dose
     - 4 mg once weekly. More is probably better.
 - Acarbose
