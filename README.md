@@ -88,10 +88,11 @@ Others I have taken or considered, but am not as sure about:
     - This and glycine are precursors of the endogenous antioxidant glutathione. Antioxidant. Tastes terrible.
   - Evidence
     - [Single lab mice lifespan extension (male and female): ~24% average](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8912885/)
+    - [Glycine (7g) and NAC (9g) supplementation in older humans for 24 weeks improved some markers of health and increased glutathione](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ctm2.372)
   - Risks
     - [NAC increased lung cancer metastasis in mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6795405/). There is some concern with antioxidants that since the prevent cell oxidation, this can actually protect cancer cells too. This seems somewhat at odds with the lifespan extension seen in mice, since mice mostly die of cancer.
   - Dose
-    - 1g daily
+    - 1+ grams daily
 - Astaxanthin
   - Background
     - Antioxidant, Nrf2 activator, pink pigment in salmon. 165g salmon has 3.6mg astaxanthin. 
