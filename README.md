@@ -6,7 +6,7 @@ I aspire towards a completely whole food plant based (WFPB) diet. This is the be
 
 TODO: Add research around why this is best.
 
-Caloric restriction is shown to increase lifespan significantly in model animals. Fasting or intermittent fasting may have similar beneficial effects.
+Caloric restriction is shown to increase lifespan significantly in model animals. Fasting or intermittent fasting may have similar beneficial effects. TODO: Add evidence.
 
 ### Exercise
 
