@@ -2,7 +2,7 @@
 
 ### Diet
 
-I aspire towards a completely whole food plant based (WFPB) diet. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.app.box.com/s/u4fsn7upyurc85tckg5p163xrvif297p/file/1051382381632) would both be great targets. I actually eat a vegan, mostly WFPB diet.
+I aspire towards a completely whole food plant based (WFPB) diet. This is the best diet for preventing and reversing the most common age related diseases in humans such as heart disease, stroke and cancer. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.app.box.com/s/u4fsn7upyurc85tckg5p163xrvif297p/file/1051382381632) would both be great targets. I actually eat a vegan, mostly WFPB diet.
 
 TODO: Add research around why this is best.
 
@@ -25,7 +25,7 @@ I take and think everyone should take these:
     - Low risk. Used and researched in human transplant patients at 2-5 mg daily dose. Used widely at 4+ mg weekly dose for anti-aging.
     - Most significant potential side effects are related to having kids.
       - For males: decrease in fertility. Seen in human transplant patients and high dose mice. In both humans and mice discontinuation of the drug allows fertility in all cases.
-      - For females: when taken during mice pregnancy, bad effects in offspring.
+      - For females: [when taken during mice pregnancy, reduced size and growth of offspring](https://pubmed.ncbi.nlm.nih.gov/28778941)
     - Can also lower immune system response to bacteria. This can be an issue at high doses used in transplant patients but not reported in lower weekly antiaging usage. Recommend stopping usage while feeling sick.
   - Dose
     - 4 mg once weekly. More is probably better.
@@ -40,7 +40,7 @@ I take and think everyone should take these:
       - male: +37% median / +24% p90
       - female: +28% median / +21% p90
   - Risks
-    - Low risk, prescribed in humans.
+    - Low risk, widely prescribed for type 2 diabetes.
   - Dose
     - 50 mg twice daily, with lunch and dinner
 - Glycine
@@ -54,7 +54,7 @@ I take and think everyone should take these:
   - Risk
     - Low risk, found in diet in similar amount as supplementation.
   - Dose
-    - 4g daily
+    - 4+ grams daily
 - Taurine
   - Background
     - Semi-essential amino acid, produced endogenously and also found in food. Non-vegetarians typically eat 40 – 70 mg of taurine per day (Rana, 1986). Vegan diet has reduced amounts of taurine, with seaweed and soybeans as plant based sources. Vegans have been shown to have lower but normal blood levels of taurine (Laidlaw, 1988).
@@ -64,7 +64,7 @@ I take and think everyone should take these:
   - Risk
     - Low, given fairly similar amounts are present in a typical diet.
   - Dose
-    - 2-4g daily
+    - 2-4+ grams daily
 - B12
   - Background
     - A vitamin whose deficiency causes significant issues and is missing in vegan / plant based diets.
@@ -72,7 +72,7 @@ I take and think everyone should take these:
     - 1 mg, weekly
 - Creatine
   - Background
-    - Improves strength and possibly cognition in humans, widely used. Being strong is important in human lifespan due to loss of muscle with age and the risk of frailty.
+    - Improves strength and possibly cognition in humans, widely used. Being strong is important in human lifespan due to loss of muscle with age and the risk of frailty. Creatine is found in lower levels in plant based diets.
   - Evidence
     - TODO
   - Risks
@@ -83,11 +83,11 @@ I take and think everyone should take these:
 Others I have taken or considered, but am not as sure about:
 - NAC (combined with glycine)
   - Background
-    - This and glycine are precursors of the endogenous antioxidant glutathione.
+    - This and glycine are precursors of the endogenous antioxidant glutathione. Antioxidant.
   - Evidence
     - [Single lab mice lifespan extension (male and female): ~24% average](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8912885/)
   - Risks
-    - Some concern that this could increase cancer risk. This seems at odds with the lifespan extension seen in mice, which mostly die of cancer.
+    - [NAC increased lung cancer metastasis in mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6795405/). There is some concern with antioxidants that since the prevent cell oxidation, this can actually protect cancer cells too. This seems somewhat at odds with the lifespan extension seen in mice, since mice mostly die of cancer.
   - Dose
     - 1g daily
 - Astaxanthin
