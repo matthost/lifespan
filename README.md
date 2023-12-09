@@ -38,7 +38,7 @@ I take and think everyone should take these:
     - 4 mg once weekly. More is probably better.
 - Acarbose
   - Background
-    - Slows digestion of glucose, lowering blood sugar spikes. Taken with meals.
+    - Slows digestion of sugar, lowering blood sugar spikes. Taken with meals.
   - Evidence
     - [ITP mice lifespan extension](https://phenome.jax.org/itp/surv/ACA/C2013)
       - male: +17% median / + 11% p90
@@ -47,7 +47,7 @@ I take and think everyone should take these:
       - male: +37% median / +24% p90
       - female: +28% median / +21% p90
   - Risks
-    - Low risk, widely prescribed for type 2 diabetes.
+    - Low risk, widely prescribed for type 2 diabetes. [Up to 300 mg 3 times daily.](https://www.ncbi.nlm.nih.gov/books/NBK493214/)
   - Dose
     - 50 mg twice daily, with lunch and dinner
 - Glycine
