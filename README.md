@@ -120,7 +120,7 @@ Others I have taken or considered, but am not as sure about:
   - Risks
     - Seems low.
   - Dose
-    - 1 tablet.
+    - 1 pill daily.
 - Lutein and Zeaxanthin
   - [Seems](https://www.medicalnewstoday.com/articles/how-much-lutein-per-day-for-macular-degeneration#lutein-and-macular-degeneration) to aid against age related macular degeneration.
 - Berberine
