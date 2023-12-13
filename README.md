@@ -96,7 +96,7 @@ Others I have taken or considered, but am not as sure about:
   - Safety
     - Low, widely used without negative effects.
   - Dose
-    2.5-5g daily
+    - 2.5-5g daily
 - Astaxanthin
   - Background
     - Antioxidant, Nrf2 activator, pink pigment in salmon. 165g salmon has 3.6mg astaxanthin. 
