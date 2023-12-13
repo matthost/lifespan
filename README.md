@@ -2,7 +2,7 @@
 
 ### Diet
 
-A whole food plant based (WFPB) diet. This is the best diet for preventing and reversing the most common age related diseases in humans such as heart disease, stroke and cancer. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.app.box.com/s/u4fsn7upyurc85tckg5p163xrvif297p/file/1051382381632) would both be great targets.
+Target a whole food plant based (WFPB) diet. This is the best diet for preventing and reversing the most common age related diseases in humans such as heart disease, stroke and cancer. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.app.box.com/s/u4fsn7upyurc85tckg5p163xrvif297p/file/1051382381632) would both be great targets.
 
 TODO: Add research around why this is best.
 
