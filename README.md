@@ -2,11 +2,11 @@
 
 ### Diet
 
-I aspire towards a completely whole food plant based (WFPB) diet. This is the best diet for preventing and reversing the most common age related diseases in humans such as heart disease, stroke and cancer. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.app.box.com/s/u4fsn7upyurc85tckg5p163xrvif297p/file/1051382381632) would both be great targets. I actually eat a vegan, mostly WFPB diet.
+A whole food plant based (WFPB) diet. This is the best diet for preventing and reversing the most common age related diseases in humans such as heart disease, stroke and cancer. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.app.box.com/s/u4fsn7upyurc85tckg5p163xrvif297p/file/1051382381632) would both be great targets. I actually eat a vegan, mostly WFPB diet.
 
 TODO: Add research around why this is best.
 
-Caloric restriction is shown to increase lifespan significantly in model animals. Fasting or intermittent fasting may have similar beneficial effects. TODO: Add evidence.
+Caloric restriction and fasting are also shown to increase lifespan across animal models.
 
 ### Exercise
 
@@ -14,7 +14,7 @@ Cardio and strength training are both important to health and longevity. Strengt
 
 ### Supplements
 
-I take and think everyone should take these:
+These are the essentials with the highest reward and lowest risk. Everyone should take these:
 
 - Rapamycin
   - Background
@@ -27,7 +27,7 @@ I take and think everyone should take these:
       - male: +37% median / +24% p90
       - female: +28% median / +21% p90
     - [Evidence of anticancer effect in humans and FDA approval to treat cancer in humans.](https://www.nature.com/articles/nrc2341)
-  - Risks
+  - Safety
     - Low risk. Used and researched in human transplant patients at 2-5 mg daily dose. Used widely at 4+ mg weekly dose for anti-aging.
     - Most significant potential side effects are related to having kids.
       - For males: decrease in fertility. Seen in human transplant patients and high dose mice. In both humans and mice discontinuation of the drug allows fertility in all cases.
@@ -46,7 +46,7 @@ I take and think everyone should take these:
     - [ITP mice lifespan extension when combined with rapamycin](https://phenome.jax.org/itp/surv/RaAc/C2017):
       - male: +37% median / +24% p90
       - female: +28% median / +21% p90
-  - Risks
+  - Safety
     - Low risk, widely prescribed for type 2 diabetes. [Up to 300 mg 3 times daily.](https://www.ncbi.nlm.nih.gov/books/NBK493214/)
   - Dose
     - 50 mg twice daily, with lunch and dinner
@@ -78,15 +78,6 @@ I take and think everyone should take these:
     - A vitamin whose deficiency causes significant issues and is missing in vegan / plant based diets.
   - Dose
     - 1 mg, weekly
-- Creatine
-  - Background
-    - Improves strength and possibly cognition in humans, widely used. Being strong is important in human lifespan due to loss of muscle with age and the risk of frailty. Creatine is found in lower levels in plant based diets.
-  - Evidence
-    - TODO
-  - Risks
-    - Low, widely used without negative effects.
-  - Dose
-    2.5-5g daily
 
 Others I have taken or considered, but am not as sure about:
 - NAC (combined with glycine)
@@ -95,10 +86,19 @@ Others I have taken or considered, but am not as sure about:
   - Evidence
     - [Single lab mice lifespan extension (male and female): ~24% average](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8912885/)
     - [Glycine (7g) and NAC (9g) supplementation in older humans for 24 weeks improved some markers of health and increased glutathione](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ctm2.372)
-  - Risks
+  - Safety
     - [NAC increased lung cancer metastasis in mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6795405/). There is some concern with antioxidants that since the prevent cell oxidation, this can actually protect cancer cells too. This seems somewhat at odds with the lifespan extension seen in mice, since mice mostly die of cancer.
   - Dose
     - 1+ grams daily
+- Creatine
+  - Background
+    - Improves strength and possibly cognition in humans, widely used. Being strong is important in human lifespan due to loss of muscle with age and the risk of frailty. Creatine is found in lower levels in plant based diets.
+  - Evidence
+    - TODO
+  - Safety
+    - Low, widely used without negative effects.
+  - Dose
+    2.5-5g daily
 - Astaxanthin
   - Background
     - Antioxidant, Nrf2 activator, pink pigment in salmon. 165g salmon has 3.6mg astaxanthin. 
@@ -107,7 +107,7 @@ Others I have taken or considered, but am not as sure about:
       - 4000 ppm (3.5g / day human equivalent dose)
       - male: +12% median, +6% p90
       - female: no effect
-  - Risks
+  - Safety
     - Seems low, given natural consumption and mice testing with much larger amounts.
   - Dose
     - ITP tested a human equivalent 3.5g / day, but most supplements have only 12mg.
@@ -117,7 +117,7 @@ Others I have taken or considered, but am not as sure about:
   - Evidence
     - Seems to have anticancer, other beneficial effects. [Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5225737/).
     - [Worm lifepsan extension]((https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7880325/)): ~15%
-  - Risks
+  - Safety
     - Seems low.
   - Dose
     - ?
@@ -126,7 +126,7 @@ Others I have taken or considered, but am not as sure about:
     - [Commercial supplement](https://juvifyhealth.com/pages/glylo) designed to reduce damage done by [glycation](https://en.wikipedia.org/wiki/Glycation), so thought to reduce damage from high blood sugar.
   - Evidence 
     - [Single study mice lifespan extension]((https://www.biorxiv.org/content/10.1101/2022.08.10.503411v1.full)): +8% median / +5% max.
-  - Risks
+  - Safety
     - Seems low.
   - Dose
     - 1 pill daily.
