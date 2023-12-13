@@ -10,7 +10,7 @@ Caloric restriction and fasting are also shown to increase lifespan across anima
 
 ### Exercise
 
-Cardio and strength training are both important to health and longevity. Strength training should not be neglected since sarcopenia (loss of muscle mass) is a large cause of injury and subsequent decline in the elderly. Since we lose muscle with age, you want to start with a strong base so that you remain strong as you age and lose muscle.
+Cardio and strength training are both important to health and longevity. Strength training should not be neglected since we lose muscle with age. Strength improves healthspan and also prevents injury which leads to faster decline.
 
 ### Supplements
 
