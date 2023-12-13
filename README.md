@@ -4,8 +4,6 @@
 
 Target a whole food plant based (WFPB) diet. This is the best diet for preventing and reversing the most common age related diseases in humans such as heart disease, stroke and cancer. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.app.box.com/s/u4fsn7upyurc85tckg5p163xrvif297p/file/1051382381632) would both be great targets.
 
-TODO: Add research around why this is best.
-
 Caloric restriction and fasting are also shown to increase lifespan across animal models.
 
 ### Exercise
@@ -92,9 +90,9 @@ Others I have taken or considered, but am not as sure about:
     - 1+ grams daily
 - Creatine
   - Background
-    - Improves strength and possibly cognition in humans, widely used. Being strong is important in human lifespan due to loss of muscle with age and the risk of frailty. Creatine is found in lower levels in plant based diets.
+    - Improves strength and possibly cognition in humans, widely used. Creatine is found in lower levels in plant based diets.
   - Evidence
-    - TODO
+    - [Improved leg strength and sit-to-stand exercise performance in elderly when supplemented with creatine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6518405/)
   - Safety
     - Low, widely used without negative effects.
   - Dose
@@ -133,15 +131,12 @@ Others I have taken or considered, but am not as sure about:
 - Lutein and Zeaxanthin
   - [Seems](https://www.medicalnewstoday.com/articles/how-much-lutein-per-day-for-macular-degeneration#lutein-and-macular-degeneration) to aid against age related macular degeneration.
 - Berberine
-  - TODO
 - Vollagen (vegan collagen)
   - Collagen improves skin health and is just protein so is generally safe. Collagen is mostly glycine so glycine may be sufficient and can skip this.
 - Hyaluronic acid
   - Improves skin health.
 - Omega 3
-  - TODO
 - Vitamin D
-  - TODO
 - Ergothioneine
   - Antioxidant in mushrooms.
   - Extends lifespan in flies. ([study](https://pubmed.ncbi.nlm.nih.gov/34877949/))
