@@ -12,7 +12,7 @@ Cardio and strength training are both important to health and longevity. Strengt
 
 ### Supplements
 
-These are the essentials with the highest reward and lowest risk. Everyone should take these:
+Everyone should take these:
 
 - Rapamycin
   - Background
