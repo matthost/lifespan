@@ -10,9 +10,9 @@ Caloric restriction and fasting are also shown to increase lifespan across anima
 
 Cardio and strength training are both important to health and longevity. Strength training should not be neglected since we lose muscle with age. Strength improves healthspan and also prevents injury which leads to faster decline.
 
-### Supplements
+### Supplements / Medications
 
-Everyone should take these:
+There are 4 supplements / medications that have the most robust evidence of effectiveness and safety. Start with these, in order of effectiveness.
 
 - Rapamycin
   - Background
@@ -71,11 +71,6 @@ Everyone should take these:
     - Low, given fairly similar amounts are present in a typical diet.
   - Dose
     - 2-4+ grams daily
-- B12
-  - Background
-    - A vitamin whose deficiency causes significant issues and is missing in vegan / plant based diets.
-  - Dose
-    - 1 mg, weekly
 
 Others I have taken or considered, but am not as sure about:
 - NAC (combined with glycine)
