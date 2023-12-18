@@ -8,15 +8,23 @@ Caloric restriction and fasting are also shown to increase lifespan across anima
 
 ### Exercise
 
-Cardio and strength training are both important to health and longevity. Strength training should not be neglected since we lose muscle with age. Strength improves healthspan and also prevents injury which leads to faster decline.
+Cardio and strength training are both important to health and longevity. Strength training should not be neglected since we lose muscle with age. Strength improves healthspan and prevents injury which leads to faster decline.
 
 ### Supplements / Medications
 
-There are 4 supplements / medications that have the most robust evidence of effectiveness and safety. Start with these, in order of effectiveness.
+When considering supplements and medications we must consider the effectiveness and the safety.
+
+Effectiveness is best measured by significant reproducible results in animal trials, since we have limited mechanistic understanding of aging and no lifespan trials in humans. An explanation of the anti-aging mechanism, and that this mechanism is also present in humans, is also good - though must be read with skepticism due to our poor mechanistic understanding.
+
+The Interventions Testing Program (ITP) is the gold standard for reproducible lifespan trials, performing mice lifespan interventions in 3 separate labs and compiling the results.
+
+Safety is best measured by long term usage in humans. Studies in animal models can also be helpful for evaluating safety - if they are living longer, it was safer for that animal to take it than not.
+
+There are 4 supplements / medications that have the most robust evidence of effectiveness and safety: rapamycin, acarbose, glycine and taurine. Rapamycin and acarbose demonstrate the strongest effect, while glycine and taurine show small but significant effect.
 
 - Rapamycin
   - Background
-    - Inhibits MTOR, and specifically MTORc1, a growth pathway. By far the star molecule in longevity research today with a low risk and strong reward.
+    - Inhibits MTOR, and specifically MTORc1, a growth pathway. The most significant effect across animal models, with good safety data in humans. Thought to reduce aging by reducing growth - continuing growth post-adulthood could be a driver of aging.
   - Evidence
     - [ITP mice lifespan extension](https://phenome.jax.org/itp/surv/Rapa/C2009)
       - male: +10-22% median, +8% p90
@@ -26,7 +34,7 @@ There are 4 supplements / medications that have the most robust evidence of effe
       - female: +28% median / +21% p90
     - [Evidence of anticancer effect in humans and FDA approval to treat cancer in humans.](https://www.nature.com/articles/nrc2341)
   - Safety
-    - Low risk. Used and researched in human transplant patients at 2-5 mg daily dose. Used widely at 4+ mg weekly dose for anti-aging.
+    - Used and researched in human transplant patients at 2-5 mg daily dose. Used widely at 4+ mg weekly dose for anti-aging.
     - Most significant potential side effects are related to having kids.
       - For males: decrease in fertility. Seen in human transplant patients and high dose mice. In both humans and mice discontinuation of the drug allows fertility in all cases.
       - For females: [when taken during mice pregnancy, reduced size and growth of offspring](https://pubmed.ncbi.nlm.nih.gov/28778941)
@@ -36,7 +44,7 @@ There are 4 supplements / medications that have the most robust evidence of effe
     - 4 mg once weekly. More is probably better.
 - Acarbose
   - Background
-    - Slows digestion of sugar, lowering blood sugar spikes. Taken with meals.
+    - Slows digestion of sugar, lowering blood sugar spikes. Taken with meals. Thought to reduce aging by reducing blood sugar spikes which can be harmful. Synergistic with rapamycin.
   - Evidence
     - [ITP mice lifespan extension](https://phenome.jax.org/itp/surv/ACA/C2013)
       - male: +17% median / + 11% p90
@@ -45,34 +53,39 @@ There are 4 supplements / medications that have the most robust evidence of effe
       - male: +37% median / +24% p90
       - female: +28% median / +21% p90
   - Safety
-    - Low risk, widely prescribed for type 2 diabetes. [Up to 300 mg 3 times daily.](https://www.ncbi.nlm.nih.gov/books/NBK493214/)
+    - Widely prescribed for type 2 diabetes. [Up to 300 mg 3 times daily.](https://www.ncbi.nlm.nih.gov/books/NBK493214/)
   - Dose
     - 50 mg twice daily, with lunch and dinner
 - Glycine
   - Background
-    - Amino acid in food, a typical diet contains ~2 grams daily. Tastes sweet.
+    - Amino acid in food, a typical diet contains ~2 grams daily. Tastes sweet. One way it may help reduce aging is by being a precursor to the antioxidant glutathione. It may also depress methionine levels, with methionine associated with aging.
   - Evidence
     - [ITP Mice lifespan extension](https://phenome.jax.org/itp/surv/Gly/C2014)
       - male: +6% median / +5% p90
       - female: +4% median / +2% p90
     - When combined with NAC: 24% average mice lifespan extension. See NAC section.
     - [Glycine (7g) and NAC (9g) supplementation in older humans for 24 weeks improved some markers of health and increased glutathione](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ctm2.372)
-  - Risk
-    - Low risk, found in diet in similar amount as supplementation.
+  - Safety
+    - Found in diet in similar amount as supplementation, so should be safe.
   - Dose
     - 4+ grams daily
 - Taurine
   - Background
-    - Semi-essential amino acid, produced endogenously and also found in food. Non-vegetarians typically eat 40 – 70 mg of taurine per day (Rana, 1986). Vegan diet has reduced amounts of taurine, with seaweed and soybeans as plant based sources. Vegans have been shown to have lower but normal blood levels of taurine (Laidlaw, 1988). Neutral taste.
+    - Semi-essential amino acid, produced by the body and also found in food. Thought to extend lifespan by correcting for defeciency that occurs with age in humans and other animals. Vegans notably have lower levels of this since it is found mostly in animal foods, so vegans may have an extra benefit from supplementation of it. Neutral taste.
   - Evidence
-    - [Mice lifespan extension](https://www.science.org/doi/10.1126/science.abn9257): median 10%. Equivalent human dose of 2.8-5.7g.
-    - Same study as above: taurine deficiency associated with aging
-  - Risk
-    - Low, given fairly similar amounts are present in a typical diet.
+    - [Main study](https://www.science.org/doi/10.1126/science.abn9257). References:
+      - Mice lifespan extension: median 10%. Equivalent human dose of 2.8-5.7g.
+      - Lifespan extension in mice and worms
+      - Improved health markers in monkeys (lifespan data pending as the monkeys have not yet died)
+      - Blood concentration of taurine declines with age in mice, monkeys, and humans.
+    - Non-vegetarians typically eat 40 – 70 mg of taurine per day (Rana, 1986). Vegan diet has reduced amounts of taurine, with seaweed and soybeans as plant based sources. Vegans have been shown to have lower but normal blood levels of taurine (Laidlaw, 1988).
+  - Safety
+    - Found in diet and is an amino acid, so should be safe.
+    - Improved health markers and lifespan in model animals as mentioned above
   - Dose
     - 2-4+ grams daily
 
-Others I have taken or considered, but am not as sure about:
+An honorable mention goes to N-Acetyl-Cysteine (NAC). When combined with glycine there is significant lifespan extension. However, it has not been evaluated in the ITP and in one study it increased lung cancer in mice. I think it is worth taking, but the evidence is not as clear cut as the previous supplements. 
 - NAC (combined with glycine)
   - Background
     - This and glycine are precursors of the endogenous antioxidant glutathione. Antioxidant. Tastes terrible.
@@ -83,6 +96,9 @@ Others I have taken or considered, but am not as sure about:
     - [NAC increased lung cancer metastasis in mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6795405/). There is some concern with antioxidants that since the prevent cell oxidation, this can actually protect cancer cells too. This seems somewhat at odds with the lifespan extension seen in mice, since mice mostly die of cancer.
   - Dose
     - 1+ grams daily
+
+Others I think are interesting and have taken or considered taking:
+
 - Creatine
   - Background
     - Improves strength and possibly cognition in humans, widely used. Creatine is found in lower levels in plant based diets.
