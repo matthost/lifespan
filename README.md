@@ -101,11 +101,11 @@ Others I think are interesting and have taken or considered taking:
 
 - Creatine
   - Background
-    - Improves strength and possibly cognition in humans, widely used. Creatine is found in lower levels in plant based diets.
+    - Improves strength and possibly cognition in humans, widely used. Creatine is found in lower levels in plant based diets so supplementing could have added benefit.
   - Evidence
     - [Improved leg strength and sit-to-stand exercise performance in elderly when supplemented with creatine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6518405/)
   - Safety
-    - Low, widely used without negative effects.
+    - Safe, widely used without negative effects.
   - Dose
     - 2.5-5g daily
 - Astaxanthin
@@ -117,7 +117,7 @@ Others I think are interesting and have taken or considered taking:
       - male: +12% median, +6% p90
       - female: no effect
   - Safety
-    - Seems low, given natural consumption and mice testing with much larger amounts.
+    - Seems safe, given natural consumption and mice testing with much larger amounts.
   - Dose
     - ITP tested a human equivalent 3.5g / day, but most supplements have only 12mg.
 - Sulforaphane
@@ -127,7 +127,7 @@ Others I think are interesting and have taken or considered taking:
     - Seems to have anticancer, other beneficial effects. [Review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5225737/).
     - [Worm lifepsan extension]((https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7880325/)): ~15%
   - Safety
-    - Seems low.
+    - Seems safe.
   - Dose
     - ?
 - Glylo
@@ -136,7 +136,7 @@ Others I think are interesting and have taken or considered taking:
   - Evidence 
     - [Single study mice lifespan extension]((https://www.biorxiv.org/content/10.1101/2022.08.10.503411v1.full)): +8% median / +5% max.
   - Safety
-    - Seems low.
+    - Seems safe.
   - Dose
     - 1 pill daily.
 - Lutein and Zeaxanthin
