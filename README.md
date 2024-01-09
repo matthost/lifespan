@@ -16,7 +16,7 @@ When considering supplements and medications we must consider the effectiveness 
 
 Effectiveness is best measured by significant reproducible results in animal trials, since we have limited mechanistic understanding of aging and no lifespan trials in humans. An explanation of the anti-aging mechanism, and that this mechanism is also present in humans, is also good - though must be read with skepticism due to our poor mechanistic understanding. The Interventions Testing Program (ITP) is the gold standard for reproducible lifespan trials, performing mice lifespan interventions in 3 separate labs and compiling the results.
 
-Safety is best measured by long term usage in humans. Studies in animal models can also be helpful for evaluating safety - if they are living longer, it was safer for that animal to take it than not.
+Safety is best measured by long term usage in humans. Studies in animal models can also be helpful for evaluating safety - if they are living longer, it was safer for that animal to take it than not. A practical aspect of safety to keep in mind is also the purity of supplements - the supplement industry is unregulated and has very bad quality in some cases. Use a trusted brand with 3rd party lab tests like Nootropics Depot, Thorne, NOW.
 
 There are 4 supplements / medications that have the most robust evidence of effectiveness and safety: rapamycin, acarbose, glycine and taurine. Rapamycin and acarbose demonstrate the strongest effect, while glycine and taurine show small but significant effect.
 
