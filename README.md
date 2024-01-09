@@ -39,8 +39,6 @@ There are 4 supplements / medications that have the most robust evidence of effe
       - For females: [when taken during mice pregnancy, reduced size and growth of offspring](https://pubmed.ncbi.nlm.nih.gov/28778941)
     - Can increase insulin resistance, raising blood glucose. This is likely why it synergizes with acarbose, which lowers blood glucose.
     - Can lower immune system response to bacteria. This can be an issue at high doses used in transplant patients but not reported in lower weekly antiaging usage. Recommend stopping usage while feeling sick.
-  - Dose
-    - 4 mg once weekly. More is probably better.
 - Acarbose
   - Background
     - Slows digestion of sugar, lowering blood sugar spikes. Taken with meals. Thought to reduce aging by reducing blood sugar spikes which can be harmful. Synergistic with rapamycin.
@@ -53,8 +51,6 @@ There are 4 supplements / medications that have the most robust evidence of effe
       - female: +28% median / +21% p90
   - Safety
     - Widely prescribed for type 2 diabetes. [Up to 300 mg 3 times daily.](https://www.ncbi.nlm.nih.gov/books/NBK493214/)
-  - Dose
-    - 50 mg twice daily, with lunch and dinner
 - Glycine
   - Background
     - Amino acid in food, a typical diet contains ~2 grams daily. Tastes sweet. One way it may help reduce aging is by being a precursor to the antioxidant glutathione. It may also depress methionine levels, with methionine associated with aging.
@@ -66,8 +62,6 @@ There are 4 supplements / medications that have the most robust evidence of effe
     - [Glycine (7g) and NAC (9g) supplementation in older humans for 24 weeks improved some markers of health and increased glutathione](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ctm2.372)
   - Safety
     - Found in diet in similar amount as supplementation, so should be safe.
-  - Dose
-    - 4+ grams daily
 - Taurine
   - Background
     - Semi-essential amino acid, produced by the body and also found in food. Thought to extend lifespan by correcting for defeciency that occurs with age in humans and other animals. Vegans notably have lower levels of this since it is found mostly in animal foods, so vegans may have an extra benefit from supplementation of it. Neutral taste.
@@ -81,8 +75,6 @@ There are 4 supplements / medications that have the most robust evidence of effe
   - Safety
     - Found in diet and is an amino acid, so should be safe.
     - Improved health markers and lifespan in model animals as mentioned above
-  - Dose
-    - 2-4+ grams daily
 
 An honorable mention goes to N-Acetyl-Cysteine (NAC). When combined with glycine there is significant lifespan extension. However, it has not been evaluated in the ITP and in one study it increased lung cancer in mice. I think it is worth taking, but the evidence is not as clear cut as the previous supplements. 
 - NAC (combined with glycine)
@@ -94,8 +86,6 @@ An honorable mention goes to N-Acetyl-Cysteine (NAC). When combined with glycine
     - [Glycine (7g) and NAC (9g) supplementation in older humans for 24 weeks improved some markers of health and increased glutathione](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ctm2.372)
   - Safety
     - [NAC increased lung cancer metastasis in mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6795405/). There is some concern with antioxidants that since the prevent cell oxidation, this can actually protect cancer cells too. This seems somewhat at odds with the lifespan extension seen in mice, since mice mostly die of cancer.
-  - Dose
-    - 1+ grams daily
    
 Another honorable mention goes to carnosine, another amino acid. It has limited evidence but a good safety profile.
 - Carnosine
@@ -116,8 +106,6 @@ Others I think are interesting and have taken or considered taking:
     - [Improved leg strength and sit-to-stand exercise performance in elderly when supplemented with creatine](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6518405/)
   - Safety
     - Safe, widely used without negative effects.
-  - Dose
-    - 2.5-5g daily
 - Astaxanthin
   - Background
     - Antioxidant, Nrf2 activator, pink pigment in salmon. 165g salmon has 3.6mg astaxanthin. 
@@ -127,9 +115,7 @@ Others I think are interesting and have taken or considered taking:
       - male: +12% median, +6% p90
       - female: no effect
   - Safety
-    - Seems safe, given natural consumption and mice testing with much larger amounts.
-  - Dose
-    - ITP tested a human equivalent 3.5g / day, but most supplements have only 12mg.
+    - Seems safe, given natural consumption and mice testing with much larger amounts. Note ITP tested a human equivalent 3.5g / day, but most supplements have only 12mg.
 - Sulforaphane
   - Background
     - An ingredient of broccoli.
@@ -138,8 +124,6 @@ Others I think are interesting and have taken or considered taking:
     - [Worm lifepsan extension]((https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7880325/)): ~15%
   - Safety
     - Seems safe.
-  - Dose
-    - ?
 - Glylo
   - Background
     - [Commercial supplement](https://juvifyhealth.com/pages/glylo) designed to reduce damage done by [glycation](https://en.wikipedia.org/wiki/Glycation), so thought to reduce damage from high blood sugar.
@@ -147,8 +131,6 @@ Others I think are interesting and have taken or considered taking:
     - [Single study mice lifespan extension]((https://www.biorxiv.org/content/10.1101/2022.08.10.503411v1.full)): +8% median / +5% max.
   - Safety
     - Seems safe.
-  - Dose
-    - 1 pill daily.
 - Lutein and Zeaxanthin
   - [Seems](https://www.medicalnewstoday.com/articles/how-much-lutein-per-day-for-macular-degeneration#lutein-and-macular-degeneration) to aid against age related macular degeneration.
 - Berberine
