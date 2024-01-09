@@ -2,7 +2,7 @@
 
 ### Diet
 
-Target a whole food plant based (WFPB) diet. This is the best diet for preventing and reversing the most common age related diseases in humans such as heart disease, stroke and cancer. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.app.box.com/s/u4fsn7upyurc85tckg5p163xrvif297p/file/1051382381632) would both be great targets.
+A whole food plant based (WFPB) diet seems to be the best diet for preventing and reversing the most common age related diseases in humans such as heart disease, stroke and cancer. For examples, Bryan Johnson's [Blueprint](https://protocol.bryanjohnson.com/#step-1-meal-prep) and Greger's [Daily Dozen](https://nutritionfacts.app.box.com/s/u4fsn7upyurc85tckg5p163xrvif297p/file/1051382381632) would both be great targets.
 
 Caloric restriction and fasting are also shown to increase lifespan across animal models.
 
@@ -14,9 +14,7 @@ Cardio and strength training are both important to health and longevity. Strengt
 
 When considering supplements and medications we must consider the effectiveness and the safety.
 
-Effectiveness is best measured by significant reproducible results in animal trials, since we have limited mechanistic understanding of aging and no lifespan trials in humans. An explanation of the anti-aging mechanism, and that this mechanism is also present in humans, is also good - though must be read with skepticism due to our poor mechanistic understanding.
-
-The Interventions Testing Program (ITP) is the gold standard for reproducible lifespan trials, performing mice lifespan interventions in 3 separate labs and compiling the results.
+Effectiveness is best measured by significant reproducible results in animal trials, since we have limited mechanistic understanding of aging and no lifespan trials in humans. An explanation of the anti-aging mechanism, and that this mechanism is also present in humans, is also good - though must be read with skepticism due to our poor mechanistic understanding. The Interventions Testing Program (ITP) is the gold standard for reproducible lifespan trials, performing mice lifespan interventions in 3 separate labs and compiling the results.
 
 Safety is best measured by long term usage in humans. Studies in animal models can also be helpful for evaluating safety - if they are living longer, it was safer for that animal to take it than not.
 
@@ -26,6 +24,7 @@ There are 4 supplements / medications that have the most robust evidence of effe
   - Background
     - Inhibits MTOR, and specifically MTORc1, a growth pathway. The most significant effect across animal models, with good safety data in humans. Thought to reduce aging by reducing growth - continuing growth post-adulthood could be a driver of aging.
   - Evidence
+    - Multiple ITP trials all showing significant lifespan extension
     - [ITP mice lifespan extension](https://phenome.jax.org/itp/surv/Rapa/C2009)
       - male: +10-22% median, +8% p90
       - female: +22% median, +21% p90
@@ -91,11 +90,22 @@ An honorable mention goes to N-Acetyl-Cysteine (NAC). When combined with glycine
     - This and glycine are precursors of the endogenous antioxidant glutathione. Antioxidant. Tastes terrible.
   - Evidence
     - [Single lab mice lifespan extension (male and female): ~24% average](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8912885/)
+      - Since this is a single study it needs replication, preferably by ITP, but the max lifespan was quite long so it is significant.
     - [Glycine (7g) and NAC (9g) supplementation in older humans for 24 weeks improved some markers of health and increased glutathione](https://onlinelibrary.wiley.com/doi/epdf/10.1002/ctm2.372)
   - Safety
     - [NAC increased lung cancer metastasis in mice](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6795405/). There is some concern with antioxidants that since the prevent cell oxidation, this can actually protect cancer cells too. This seems somewhat at odds with the lifespan extension seen in mice, since mice mostly die of cancer.
   - Dose
     - 1+ grams daily
+   
+Another honorable mention goes to carnosine, another amino acid. It has limited evidence but a good safety profile.
+- Carnosine
+  - Background
+    - An amino acid produced by the body and consumed in food. A typical diet will contain ~250mg. Mainly found in animal foods, so could be additionally beneficial for vegans.
+  - Evidence
+    - [Single lab p50 +20% lifespan](https://www.liebertpub.com/doi/10.1089/rej.1.1999.2.337)
+    - Greg Fahy is a 73 year old researcher that looks great for his age and uses 1.5g carnosine/day. N-of-1 experiment that could just be good genes or other things. He theorizes it has a rejuvenating effect on the thymus.
+  - Safety
+    - Should be safe in similar-to-diet quantities since it is an amino acid found in common diets.
 
 Others I think are interesting and have taken or considered taking:
 
@@ -153,3 +163,6 @@ Others I think are interesting and have taken or considered taking:
   - Extends lifespan in flies. ([study](https://pubmed.ncbi.nlm.nih.gov/34877949/))
 - Baikal Skullcap
   - Reduces glucose digestion via same mechanism as acarbose.
+- White willow bark extract
+    - Increased the average and maximum chronological lifespan of yeast by 475 percent and 369 percent, respectively. Titorenko says that's at least five times better than rapamycin or metformin, two drugs known for extending lifespan. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6791382/
+    - Aspirin alternative and cheap
