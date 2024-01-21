@@ -92,7 +92,7 @@ Another honorable mention goes to carnosine, another amino acid. It has limited 
   - Background
     - An amino acid produced by the body and consumed in food. A typical diet will contain ~250mg. Mainly found in animal foods, so could be additionally beneficial for vegans.
   - Evidence
-    - [Single lab p50 +20% lifespan](https://www.liebertpub.com/doi/10.1089/rej.1.1999.2.337)
+    - [Single lab mice p50 +20% lifespan](https://www.liebertpub.com/doi/10.1089/rej.1.1999.2.337)
     - Greg Fahy is a 73 year old researcher that looks great for his age and uses 1.5g carnosine/day. N-of-1 experiment that could just be good genes or other things. He theorizes it has a rejuvenating effect on the thymus.
   - Safety
     - Should be safe in similar-to-diet quantities since it is an amino acid found in common diets.
